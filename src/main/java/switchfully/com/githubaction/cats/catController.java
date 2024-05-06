@@ -10,6 +10,6 @@ public class catController {
 
     @GetMapping()
     public String getAllCats(){
-        return "Oh no... cats are removed";
+        return "Oh no... cats are dead";
     }
 }
